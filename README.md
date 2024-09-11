@@ -1,4 +1,4 @@
-### personal-website
+# Personal Website
 Personal website to showcase my portfolio, blog, and contact details
 
 ## Description
@@ -16,7 +16,3 @@ This repository contains the source code for my personal website. The website is
 - CSS3: Styling and responsive layout.
 - JavaScript: Interactivity and dynamic features (optional).
 
-## Contact
-If you have any questions or feedback, feel free to contact me at:
-Email: aisyahilmaderajat@gmail.com
-GitHub: https://github.com/aisyahilma
