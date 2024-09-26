@@ -1,25 +1,25 @@
-# Aisyah Ilma Darajat Hamid - Quran Teacher Personal Website
+# Aisyah Ilma Darajat Hamid - Personal Website
 
-## Overview
-This is the personal website of **Aisyah Ilma Darajat Hamid**, a dedicated Quran teacher who aims to inspire students to develop a deep connection with the Quran. The website provides information about Aisyah’s background, skills, teaching experience, and a way to get in touch for inquiries or Quran lessons.
-
-The website is designed to be simple, elegant, and easy to navigate, reflecting Aisyah’s role as a spiritual guide and teacher.
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+Welcome to my personal website! This project showcases my skills and experience as a Front-End Developer. It serves as a portfolio for my web development projects, including detailed information about my background, skills, and contact information.
 
 ## Features
-- **About Me Section**: Provides an introduction to Aisyah’s work, mission, and her dedication to teaching the Quran.
-- **Skills Section**: Highlights key areas of expertise, including Tajweed, Quran memorization techniques, and teaching Tafsir.
-- **Experience Section**: Lists teaching positions, workshops, and community involvement.
-- **Contact Section**: Allows visitors to get in touch via email or social media.
+
+- **Responsive Design**: The website is fully responsive, ensuring optimal viewing on various devices, from desktop to mobile.
+- **Portfolio**: A collection of projects that highlight my expertise in web development, focusing on clean, efficient, and accessible code.
+- **Blog**: A section where I share insights, tutorials, and thoughts about front-end development and other tech-related topics.
+- **Contact Form**: Easily get in touch with me through a simple and intuitive contact form.
 
 ## Technologies Used
-- **HTML5**: For the website's structure and content.
-- **CSS3**: For styling and layout to give the website a modern and professional appearance.
-- **Responsive Design**: The site is optimized for mobile and desktop views to ensure accessibility on different devices.
+
+- **HTML5**: For structuring the content of the website.
+- **CSS3**: To style the website, making it visually appealing and user-friendly.
+- **JavaScript**: Adding interactivity and enhancing user experience.
+- **React**: For building reusable UI components and managing the front-end.
+- **Bootstrap/Tailwind CSS**: For responsive design and layout flexibility.
+- **Git & GitHub**: Version control for tracking changes and collaborating on code.
+  
+## Setup & Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/your-repo.git
